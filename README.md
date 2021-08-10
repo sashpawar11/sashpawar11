@@ -22,11 +22,11 @@
 <br/>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sashpawar11&show_icons=true&locale=en&layout=compact" alt="sashpawar11" /></p> -->
 
-[![Saish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashpawar11&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Saish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashpawar11&show_icons=true&theme=vision-friendly-dark)](https://github.com/sashpawar11)
 
 
 <br/>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sashpawar11&show_icons=true&locale=en" alt="sashpawar11" /></p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashpawar11&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashpawar11&show_icons=true&theme=vision-friendly-dark)](https://github.com/sashpawar11)
 
